@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T23:04:32.384Z'
-dateModified: '2016-03-05T23:00:57.763Z'
+datePublished: '2016-03-05T23:05:01.845Z'
+dateModified: '2016-03-05T23:04:51.392Z'
 title: First Memory - June 1964
 author: []
+sourcePath: _posts/2016-03-05-first-memory-june-1964.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-first-memory-june-1964.md
-published: true
 url: first-memory-june-1964/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cfa2417-898b-43d1-b0d1-17211290ed30.jpg)
+
 He remembers it this way: He was two and a half years old, and he had come with his dad and mom to the doctor's office. The town they lived in had only one doctor: Dr.Skaggs, and he was already an ancient man who would have retired long ago if he had been able to find a suitable replacement. As it was, the boy was there with his parents to welcome a new brother or sister into the family. 
 
 These were the days before doctors could tell you the sex of a baby before it was born, but the boy knew he would soon have a baby brother. After all, that is what his Ma Nellie had told everyone. Ma Nellie said it had to do with the way the boy's mom carried the baby inside her belly. And as far as the boy was concerned, what Ma Nellie said was the gospel truth. 
